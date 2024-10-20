@@ -218,7 +218,7 @@ print(cr)
 
 
 
-### output:
+### Output:
 ![image](https://github.com/user-attachments/assets/6450263d-3d41-4bd8-b735-bfbf3b0314b4)
 
 ![image](https://github.com/user-attachments/assets/a8110f1d-8fc0-419a-b80f-9edf3d80460f)
